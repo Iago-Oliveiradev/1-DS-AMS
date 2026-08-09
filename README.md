@@ -1,4 +1,4 @@
-# 1ºANO - Téc. em Desenvolvimento de Sistemas - Articulado méio superior
+# 1ºANO - Téc. em Desenvolvimento de Sistemas - Articulado médio superior
 
 Repositório destinado ao registro de conteúdos, exercícios, trabalhos e projetos desenvolvidos durante o 1ºano do curso.
 
