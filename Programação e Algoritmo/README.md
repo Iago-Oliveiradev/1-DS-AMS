@@ -10,4 +10,4 @@ Atividades desenvolvidas durante a disciplina.
 * Estruturas condicionais
 * Estruturas de repetição
 * Vetores e arrays
-* Matrizes 2x2
+* Matrizes e suas operações
